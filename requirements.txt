@@ -1,0 +1,10 @@
+pandas
+csv
+matplotlib
+IPython
+datetime
+numpy
+plotly
+plotly.express
+plotly.graph_objects
+sklearn
